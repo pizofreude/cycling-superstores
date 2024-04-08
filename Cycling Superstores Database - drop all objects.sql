@@ -1,9 +1,9 @@
 /*
 --------------------------------------------------------------------
-© 2017 sqlservertutorial.net All Rights Reserved
+© 2024 Pizofreude All Rights Reserved
 --------------------------------------------------------------------
 Name   : CyclingSuperstores
-Link   : http://www.sqlservertutorial.net/load-sample-database/
+Link   : https://github.com/pizofreude/cycling-superstores/blob/main/Cycling-Superstores-Database.zip
 Version: 1.0
 --------------------------------------------------------------------
 */
