@@ -1,3 +1,4 @@
+-- CREATE TABLE public.cc_dashboard AS
 SELECT
     ord.order_id,
     CONCAT(cus.first_name, ' ', cus.last_name) AS customers,
@@ -23,4 +24,4 @@ JOIN sales.stores sto
 ON ord.store_id = sto.store_id
 JOIN sales.staffs sta
 ON ord.staff_id = sta.staff_id
-GROUP BY ord.order_id, customers, cus.city, cus.state, ord.order_date, pro.product_name, cat.category_name, sto.store_name, sales_rep
+GROUP BY ord.order_id, customers, cus.city, cus.state, ord.order_date, pro.product_name, cat.category_name, sto.store_name, sales_rep;
