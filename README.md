@@ -49,7 +49,7 @@ To effectively communicate the findings and insights, we created interactive das
 
 Here's a snapshot of the Excel dashboard showcasing key metrics and visualizations:
 
-![Excel Dashboard](./visualizations/ExcelViz_CyclingSuperstoresDashboard.jpg)
+![Excel Dashboard](./visualizations/ExcelViz_CyclingSuperstoresDashboard.png)
 
 ### Tableau Public
 
